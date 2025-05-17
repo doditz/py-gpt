@@ -1064,7 +1064,7 @@ llama-index-readers-microsoft-onedrive==0.3.0 ; python_version >= "3.10" and pyt
 llama-index-readers-twitter==0.3.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:23bc59423fcaa7097a0f496d36e288ed36284150fd94188ce88eb70b6de10b06 \
     --hash=sha256:ff790c8d1511ed66316699d120a7b79b6585deba79ccf7b1a079799546e82ed2
-llama-index-readers-web==0.3.3 ; python_version >= "3.10" and python_version < "3.13" \
+llama-index-readers-web==0.3.6 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:740373b17456cc46a9b39810253a3c1adfc8814d40f88798bea42115a10626ce \
     --hash=sha256:ab166bb14a56f5b10b637d6633c861d86bcaa72e7e123c4e31d304e6b1d88efe
 llama-index-utils-huggingface==0.3.0 ; python_version >= "3.10" and python_version < "3.13" \
@@ -3072,7 +3072,7 @@ tomli==2.2.1 ; python_version >= "3.10" and python_version < "3.11" \
     --hash=sha256:e85e99945e688e32d5a35c1ff38ed0b3f41f43fad8df0bdf79f72b2ba7bc5272 \
     --hash=sha256:ece47d672db52ac607a3d9599a9d48dcb2f2f735c6c2d1f34130085bb12b112a \
     --hash=sha256:f4039b9cbc3048b2416cc57ab3bda989a6fcf9b36cf8937f01a6e731b64f80d7
-tornado==6.4.2 ; python_version >= "3.10" and python_version < "3.13" \
+tornado==6.5 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:072ce12ada169c5b00b7d92a99ba089447ccc993ea2143c9ede887e0937aa803 \
     --hash=sha256:1a017d239bd1bb0919f72af256a970624241f070496635784d9bf0db640d3fec \
     --hash=sha256:2876cef82e6c5978fde1e0d5b1f919d756968d5b4282418f3146b79b58556482 \
