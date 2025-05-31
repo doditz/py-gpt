@@ -983,7 +983,7 @@ llama-cloud==0.1.9 ; python_version >= "3.10" and python_version < "3.13" \
 llama-index-agent-openai==0.4.2 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:0f8aeb091fc834b2667a46ad2417fc8601bf1c08ccfd1a3d15ede90a30eb1a29 \
     --hash=sha256:e100b8a743b11fef373b5be31be590b929950a4d7fd9d158b5f014dd8fd7976e
-llama-index-cli==0.4.0 ; python_version >= "3.10" and python_version < "3.13" \
+llama-index-cli==0.4.1 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:60d12f89e6b85e80a0cc3a8b531f05a911b5eebaebc37314411476d1ba685904 \
     --hash=sha256:d6ab201359962a8a34368aeda3a49bbbe67e9e009c59bd925c4fb2be4ace3906
 llama-index-core==0.12.11 ; python_version >= "3.10" and python_version < "3.13" \
