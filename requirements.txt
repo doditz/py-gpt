@@ -986,7 +986,7 @@ llama-index-agent-openai==0.4.2 ; python_version >= "3.10" and python_version < 
 llama-index-cli==0.4.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:60d12f89e6b85e80a0cc3a8b531f05a911b5eebaebc37314411476d1ba685904 \
     --hash=sha256:d6ab201359962a8a34368aeda3a49bbbe67e9e009c59bd925c4fb2be4ace3906
-llama-index-core==0.12.11 ; python_version >= "3.10" and python_version < "3.13" \
+llama-index-core==0.12.29 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:3b1e019c899e9e011dfa01c96b7e3f666e0c161035fbca6cb787b4c61e0c94db \
     --hash=sha256:9a41ca91167ea5eec9ebaac7f5e958b7feddbd8af3bfbf7c393a5edfb994d566
 llama-index-embeddings-azure-openai==0.3.0 ; python_version >= "3.10" and python_version < "3.13" \
@@ -2676,7 +2676,7 @@ requests-oauthlib==2.0.0 ; python_version >= "3.10" and python_version < "3.13" 
 requests-toolbelt==1.0.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:7681a0a3d047012b5bdc0ee37d7f8f07ebe76ab08caeccfc3921ce23c88d5bc6 \
     --hash=sha256:cccfdd665f0a24fcf4726e690f65639d272bb0637b9b92dfd91a5568ccf6bd06
-requests==2.32.3 ; python_version >= "3.10" and python_version < "3.13" \
+requests==2.32.4 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:55365417734eb18255590a9ff9eb97e9e1da868d4ccd6402399eaf68af20a760 \
     --hash=sha256:70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6
 rich==13.9.4 ; python_version >= "3.10" and python_version < "3.13" \
