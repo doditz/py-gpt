@@ -1992,7 +1992,7 @@ propcache==0.2.1 ; python_version >= "3.10" and python_version < "3.13" \
 proto-plus==1.25.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:c91fc4a65074ade8e458e95ef8bac34d4008daa7cce4a12d6707066fca648961 \
     --hash=sha256:fbb17f57f7bd05a68b7707e745e26528b0b3c34e378db91eef93912c54982d91
-protobuf==5.29.3 ; python_version >= "3.10" and python_version < "3.13" \
+protobuf==5.29.5 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:0a18ed4a24198528f2333802eb075e59dea9d679ab7a6c5efb017a59004d849f \
     --hash=sha256:0eb32bfa5219fc8d4111803e9a690658aa2e6366384fd0851064b963b6d1f2a7 \
     --hash=sha256:3ea51771449e1035f26069c4c7fd51fba990d07bc55ba80701c78f886bf9c888 \
@@ -3117,10 +3117,10 @@ tzdata==2024.2 ; python_version >= "3.10" and python_version < "3.13" \
 uritemplate==4.1.1 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:4346edfc5c3b79f694bccd6d6099a322bbeb628dbf2cd86eea55a456ce5124f0 \
     --hash=sha256:830c08b8d99bdd312ea4ead05994a38e8936266f84b9a7878232db50b044e02e
-urllib3==1.26.20 ; python_version >= "3.10" and python_version < "3.13" \
+urllib3==2.5.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:0ed14ccfbf1c30a9072c7ca157e4319b70d65f623e91e7b32fadb2853431016e \
     --hash=sha256:40c2dc0c681e47eb8f90e7e27bf6ff7df2e677421fd46756da1161c39ca70d32
-urllib3[socks]==1.26.20 ; python_version >= "3.10" and python_version < "3.13" \
+urllib3==2.5.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:0ed14ccfbf1c30a9072c7ca157e4319b70d65f623e91e7b32fadb2853431016e \
     --hash=sha256:40c2dc0c681e47eb8f90e7e27bf6ff7df2e677421fd46756da1161c39ca70d32
 uvicorn[standard]==0.34.0 ; python_version >= "3.10" and python_version < "3.13" \
