@@ -3090,9 +3090,9 @@ tqdm==4.67.1 ; python_version >= "3.10" and python_version < "3.13" \
 traitlets==5.14.3 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:9ed0579d3502c94b4b3732ac120375cda96f923114522847de4b3bb98b96b6b7 \
     --hash=sha256:b74e89e397b1ed28cc831db7aea759ba6640cb3de13090ca145426688ff1ac4f
-transformers==4.48.0 ; python_version >= "3.10" and python_version < "3.13" \
-    --hash=sha256:03fdfcbfb8b0367fb6c9fbe9d1c9aa54dfd847618be9b52400b2811d22799cb1 \
-    --hash=sha256:6d3de6d71cb5f2a10f9775ccc17abce9620195caaf32ec96542bd2a6937f25b0
+transformers==4.52.1 ; python_version >= "3.10" and python_version < "3.13" \
+    --hash=sha256:604b2bb357c480dc5883b7944e8562c967f6b06f63dfb6a1c4665d13d067148f \
+    --hash=sha256:c380d583ed9c7ebe3e30ca5e55ec1249db39eb9ee277f8e74dab1abc6a03c938
 trio-websocket==0.11.1 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:18c11793647703c158b1f6e62de638acada927344d534e3c7628eedcb746839f \
     --hash=sha256:520d046b0d030cf970b8b2b2e00c4c2245b3807853ecd44214acd33d74581638
