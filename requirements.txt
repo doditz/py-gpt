@@ -986,7 +986,7 @@ llama-index-agent-openai==0.4.2 ; python_version >= "3.10" and python_version < 
 llama-index-cli==0.4.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:60d12f89e6b85e80a0cc3a8b531f05a911b5eebaebc37314411476d1ba685904 \
     --hash=sha256:d6ab201359962a8a34368aeda3a49bbbe67e9e009c59bd925c4fb2be4ace3906
-llama-index-core==0.12.11 ; python_version >= "3.10" and python_version < "3.13" \
+llama-index-core==0.12.41 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:3b1e019c899e9e011dfa01c96b7e3f666e0c161035fbca6cb787b4c61e0c94db \
     --hash=sha256:9a41ca91167ea5eec9ebaac7f5e958b7feddbd8af3bfbf7c393a5edfb994d566
 llama-index-embeddings-azure-openai==0.3.0 ; python_version >= "3.10" and python_version < "3.13" \
@@ -1064,7 +1064,7 @@ llama-index-readers-microsoft-onedrive==0.3.0 ; python_version >= "3.10" and pyt
 llama-index-readers-twitter==0.3.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:23bc59423fcaa7097a0f496d36e288ed36284150fd94188ce88eb70b6de10b06 \
     --hash=sha256:ff790c8d1511ed66316699d120a7b79b6585deba79ccf7b1a079799546e82ed2
-llama-index-readers-web==0.3.3 ; python_version >= "3.10" and python_version < "3.13" \
+llama-index-readers-web==0.3.9 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:740373b17456cc46a9b39810253a3c1adfc8814d40f88798bea42115a10626ce \
     --hash=sha256:ab166bb14a56f5b10b637d6633c861d86bcaa72e7e123c4e31d304e6b1d88efe
 llama-index-utils-huggingface==0.3.0 ; python_version >= "3.10" and python_version < "3.13" \
@@ -1082,7 +1082,7 @@ llama-index-vector-stores-pinecone==0.4.2 ; python_version >= "3.10" and python_
 llama-index-vector-stores-redis==0.4.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:9c7b59ad714996099bb217a2fcec6d0ef6ac15a5330f94925abce869baa635fc \
     --hash=sha256:f8eacee7ceaf0751470e57410ccc229444a91d54927ce2cbf78226f19c073f0c
-llama-index==0.12.11 ; python_version >= "3.10" and python_version < "3.13" \
+llama-index==0.12.41 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:007361c35e1981a1656cef287b7bcdf22aa88e7d41b8e3a8ee261bb5a10519a9 \
     --hash=sha256:b1116946a2414aec104a6c417b847da5b4f077a0966c50ebd2fc445cd713adce
 llama-parse==0.5.19 ; python_version >= "3.10" and python_version < "3.13" \
@@ -3090,7 +3090,7 @@ tqdm==4.67.1 ; python_version >= "3.10" and python_version < "3.13" \
 traitlets==5.14.3 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:9ed0579d3502c94b4b3732ac120375cda96f923114522847de4b3bb98b96b6b7 \
     --hash=sha256:b74e89e397b1ed28cc831db7aea759ba6640cb3de13090ca145426688ff1ac4f
-transformers==4.48.0 ; python_version >= "3.10" and python_version < "3.13" \
+transformers==4.52.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:03fdfcbfb8b0367fb6c9fbe9d1c9aa54dfd847618be9b52400b2811d22799cb1 \
     --hash=sha256:6d3de6d71cb5f2a10f9775ccc17abce9620195caaf32ec96542bd2a6937f25b0
 trio-websocket==0.11.1 ; python_version >= "3.10" and python_version < "3.13" \
