@@ -1,7 +1,7 @@
 aiohappyeyeballs==2.4.4 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:5fdd7d87889c63183afc18ce9271f9b0a7d32c2303e394468dd45d514a757745 \
     --hash=sha256:a980909d50efcd44795c4afeca523296716d50cd756ddca6af8c65b996e27de8
-aiohttp==3.11.11 ; python_version >= "3.10" and python_version < "3.13" \
+aiohttp==3.12.14 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:0882c2820fd0132240edbb4a51eb8ceb6eef8181db9ad5291ab3332e0d71df5f \
     --hash=sha256:0a6d3fbf2232e3a08c41eca81ae4f1dff3d8f1a30bae415ebe0af2d2458b8a33 \
     --hash=sha256:0b7fb429ab1aafa1f48578eb315ca45bd46e9c37de11fe45c7f5f4138091e2f1 \
@@ -3090,7 +3090,7 @@ tqdm==4.67.1 ; python_version >= "3.10" and python_version < "3.13" \
 traitlets==5.14.3 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:9ed0579d3502c94b4b3732ac120375cda96f923114522847de4b3bb98b96b6b7 \
     --hash=sha256:b74e89e397b1ed28cc831db7aea759ba6640cb3de13090ca145426688ff1ac4f
-transformers==4.48.0 ; python_version >= "3.10" and python_version < "3.13" \
+transformers==4.52.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:03fdfcbfb8b0367fb6c9fbe9d1c9aa54dfd847618be9b52400b2811d22799cb1 \
     --hash=sha256:6d3de6d71cb5f2a10f9775ccc17abce9620195caaf32ec96542bd2a6937f25b0
 trio-websocket==0.11.1 ; python_version >= "3.10" and python_version < "3.13" \
