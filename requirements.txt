@@ -2313,7 +2313,7 @@ pyobjc-framework-quartz==11.0 ; python_version >= "3.10" and python_version < "3
 pyparsing==3.2.1 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:506ff4f4386c4cec0590ec19e6302d3aedb992fdc02c761e90416f158dacf8e1 \
     --hash=sha256:61980854fd66de3a90028d679a954d5f2623e83144b5afe5ee86f43d762e5f0a
-pypdf==5.1.0 ; python_version >= "3.10" and python_version < "3.13" \
+pypdf==6.0.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:3bd4f503f4ebc58bae40d81e81a9176c400cbbac2ba2d877367595fb524dfdfc \
     --hash=sha256:425a129abb1614183fd1aca6982f650b47f8026867c0ce7c4b9f281c443d2740
 pyperclip==1.9.0 ; python_version >= "3.10" and python_version < "3.13" \
