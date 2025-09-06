@@ -956,7 +956,7 @@ jupyterlab-pygments==0.3.0 ; python_version >= "3.10" and python_version < "3.13
 kubernetes==31.0.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:28945de906c8c259c1ebe62703b56a03b714049372196f854105afe4e6d014c0 \
     --hash=sha256:bf141e2d380c8520eada8b351f4e319ffee9636328c137aa432bc486ca1200e1
-langchain-community==0.2.19 ; python_version >= "3.10" and python_version < "3.13" \
+langchain-community==0.3.27 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:651d761f2d37d63f89de75d65858f6c7f6ea99c455622e9c13ca041622dad0c5 \
     --hash=sha256:74f8db6992d03668c3d82e0d896845c413d167dad3b8e349fb2a9a57fd2d1396
 langchain-core==0.2.43 ; python_version >= "3.10" and python_version < "3.13" \
@@ -986,7 +986,7 @@ llama-index-agent-openai==0.4.2 ; python_version >= "3.10" and python_version < 
 llama-index-cli==0.4.0 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:60d12f89e6b85e80a0cc3a8b531f05a911b5eebaebc37314411476d1ba685904 \
     --hash=sha256:d6ab201359962a8a34368aeda3a49bbbe67e9e009c59bd925c4fb2be4ace3906
-llama-index-core==0.12.11 ; python_version >= "3.10" and python_version < "3.13" \
+llama-index-core==0.12.38 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:3b1e019c899e9e011dfa01c96b7e3f666e0c161035fbca6cb787b4c61e0c94db \
     --hash=sha256:9a41ca91167ea5eec9ebaac7f5e958b7feddbd8af3bfbf7c393a5edfb994d566
 llama-index-embeddings-azure-openai==0.3.0 ; python_version >= "3.10" and python_version < "3.13" \
