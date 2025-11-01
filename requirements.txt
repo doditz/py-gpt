@@ -3256,7 +3256,7 @@ standard-aifc==3.13.0 ; python_version == "3.13" \
 standard-chunk==3.13.0 ; python_version == "3.13" \
     --hash=sha256:17880a26c285189c644bd5bd8f8ed2bdb795d216e3293e6dbe55bbd848e2982c \
     --hash=sha256:4ac345d37d7e686d2755e01836b8d98eda0d1a3ee90375e597ae43aaf064d654
-starlette==0.47.3 ; python_version >= "3.10" and python_version < "3.14" \
+starlette==0.49.1 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:6bc94f839cc176c4858894f1f8908f0ab79dfec1a6b8402f6da9be26ebea52e9 \
     --hash=sha256:89c0778ca62a76b826101e7c709e70680a1699ca7da6b44d38eb0a7e61fe4b51
 striprtf==0.0.26 ; python_version >= "3.10" and python_version < "3.14" \
