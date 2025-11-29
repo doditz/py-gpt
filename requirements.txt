@@ -1077,7 +1077,7 @@ jupyterlab-pygments==0.3.0 ; python_version >= "3.10" and python_version < "3.14
 kubernetes==33.1.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:544de42b24b64287f7e0aa9513c93cb503f7f40eea39b20f66810011a86eabc5 \
     --hash=sha256:f64d829843a54c251061a8e7a14523b521f2dc5c896cf6d65ccf348648a88993
-langchain-core==0.3.75 ; python_version >= "3.10" and python_version < "3.13" \
+langchain-core==0.3.80 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:03ca1fadf955ee3c7d5806a841f4b3a37b816acea5e61a7e6ba1298c05eea7f5 \
     --hash=sha256:ab0eb95a06ed6043f76162e6086b45037690cb70b7f090bd83b5ebb8a05b70ed
 langchain-text-splitters==0.3.9 ; python_version >= "3.10" and python_version < "3.13" \
@@ -2551,7 +2551,7 @@ pyobjc-framework-quartz==11.1 ; python_version >= "3.10" and python_version < "3
 pyparsing==3.2.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:a749938e02d6fd0b59b356ca504a24982314bb090c383e3cf201c95ef7e2bfcf \
     --hash=sha256:b9c13f1ab8b3b542f72e28f634bad4de758ab3ce4546e4301970ad6fa77c38be
-pypdf==5.9.0 ; python_version >= "3.10" and python_version < "3.14" \
+pypdf==6.4.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:30f67a614d558e495e1fbb157ba58c1de91ffc1718f5e0dfeb82a029233890a1 \
     --hash=sha256:be10a4c54202f46d9daceaa8788be07aa8cd5ea8c25c529c50dd509206382c35
 pyperclip==1.9.0 ; python_version >= "3.10" and python_version < "3.14" \
