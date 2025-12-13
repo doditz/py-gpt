@@ -3363,7 +3363,7 @@ tomli==2.2.1 ; python_version == "3.10" \
     --hash=sha256:e85e99945e688e32d5a35c1ff38ed0b3f41f43fad8df0bdf79f72b2ba7bc5272 \
     --hash=sha256:ece47d672db52ac607a3d9599a9d48dcb2f2f735c6c2d1f34130085bb12b112a \
     --hash=sha256:f4039b9cbc3048b2416cc57ab3bda989a6fcf9b36cf8937f01a6e731b64f80d7
-tornado==6.5.2 ; python_version >= "3.10" and python_version < "3.14" \
+tornado==6.5.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:06ceb1300fd70cb20e43b1ad8aaee0266e69e7ced38fa910ad2e03285009ce7c \
     --hash=sha256:2436822940d37cde62771cff8774f4f00b3c8024fe482e16ca8387b8a2724db6 \
     --hash=sha256:583a52c7aa94ee046854ba81d9ebb6c81ec0fd30386d96f7640c96dad45a03ef \
@@ -3418,10 +3418,10 @@ tzdata==2025.2 ; python_version >= "3.10" and python_version < "3.14" \
 uritemplate==4.2.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:480c2ed180878955863323eea31b0ede668795de182617fef9c6ca09e6ec9d0e \
     --hash=sha256:962201ba1c4edcab02e60f9a0d3821e82dfc5d2d6662a21abd533879bdb8a686
-urllib3==1.26.20 ; python_version >= "3.10" and python_version < "3.14" \
+urllib3==2.6.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:0ed14ccfbf1c30a9072c7ca157e4319b70d65f623e91e7b32fadb2853431016e \
     --hash=sha256:40c2dc0c681e47eb8f90e7e27bf6ff7df2e677421fd46756da1161c39ca70d32
-urllib3[socks]==1.26.20 ; python_version >= "3.10" and python_version < "3.14" \
+urllib3==2.6.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:0ed14ccfbf1c30a9072c7ca157e4319b70d65f623e91e7b32fadb2853431016e \
     --hash=sha256:40c2dc0c681e47eb8f90e7e27bf6ff7df2e677421fd46756da1161c39ca70d32
 uvicorn==0.35.0 ; python_version >= "3.10" and python_version < "3.14" and sys_platform != "emscripten" \
