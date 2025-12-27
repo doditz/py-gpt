@@ -1077,7 +1077,7 @@ jupyterlab-pygments==0.3.0 ; python_version >= "3.10" and python_version < "3.14
 kubernetes==33.1.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:544de42b24b64287f7e0aa9513c93cb503f7f40eea39b20f66810011a86eabc5 \
     --hash=sha256:f64d829843a54c251061a8e7a14523b521f2dc5c896cf6d65ccf348648a88993
-langchain-core==0.3.75 ; python_version >= "3.10" and python_version < "3.13" \
+langchain-core==0.3.81 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:03ca1fadf955ee3c7d5806a841f4b3a37b816acea5e61a7e6ba1298c05eea7f5 \
     --hash=sha256:ab0eb95a06ed6043f76162e6086b45037690cb70b7f090bd83b5ebb8a05b70ed
 langchain-text-splitters==0.3.9 ; python_version >= "3.10" and python_version < "3.13" \
@@ -1412,7 +1412,7 @@ markupsafe==3.0.2 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:f3818cb119498c0678015754eba762e0d61e5b52d34c8b13d770f0719f7b1d79 \
     --hash=sha256:f8b3d067f2e40fe93e1ccdd6b2e1d16c43140e76f02fb1319a05cf2b79d99430 \
     --hash=sha256:fcabf5ff6eea076f859677f5f0b6b5c1a51e70a376b0579e0eadef8db48c6b50
-marshmallow==3.26.1 ; python_version >= "3.10" and python_version < "3.14" \
+marshmallow==3.26.2 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:3350409f20a70a7e4e11a27661187b77cdcaeb20abca41c1454fe33636bea09c \
     --hash=sha256:e6d8affb6cb61d39d26402096dc0aee12d5a26d490a121f118d2e81dc0719dc6
 matplotlib-inline==0.1.7 ; python_version >= "3.10" and python_version < "3.14" \
