@@ -1,7 +1,7 @@
 aiohappyeyeballs==2.6.1 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:c3f9d0113123803ccadfdf3f0faa505bc78e6a72d1cc4806cbd719826e943558 \
     --hash=sha256:f349ba8f4b75cb25c99c5c2d84e997e485204d2902a9597802b0371f09331fb8
-aiohttp==3.12.15 ; python_version >= "3.10" and python_version < "3.14" \
+aiohttp==3.13.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:010cc9bbd06db80fe234d9003f67e97a10fe003bfbedb40da7d71c1008eda0fe \
     --hash=sha256:049ec0360f939cd164ecbfd2873eaa432613d5e77d6b04535e3d1fbae5a9e645 \
     --hash=sha256:098e92835b8119b54c693f2f88a1dec690e20798ca5f5fe5f0520245253ee0af \
@@ -3418,10 +3418,10 @@ tzdata==2025.2 ; python_version >= "3.10" and python_version < "3.14" \
 uritemplate==4.2.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:480c2ed180878955863323eea31b0ede668795de182617fef9c6ca09e6ec9d0e \
     --hash=sha256:962201ba1c4edcab02e60f9a0d3821e82dfc5d2d6662a21abd533879bdb8a686
-urllib3==1.26.20 ; python_version >= "3.10" and python_version < "3.14" \
+urllib3==2.6.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:0ed14ccfbf1c30a9072c7ca157e4319b70d65f623e91e7b32fadb2853431016e \
     --hash=sha256:40c2dc0c681e47eb8f90e7e27bf6ff7df2e677421fd46756da1161c39ca70d32
-urllib3[socks]==1.26.20 ; python_version >= "3.10" and python_version < "3.14" \
+urllib3==2.6.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:0ed14ccfbf1c30a9072c7ca157e4319b70d65f623e91e7b32fadb2853431016e \
     --hash=sha256:40c2dc0c681e47eb8f90e7e27bf6ff7df2e677421fd46756da1161c39ca70d32
 uvicorn==0.35.0 ; python_version >= "3.10" and python_version < "3.14" and sys_platform != "emscripten" \
