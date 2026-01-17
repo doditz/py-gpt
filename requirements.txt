@@ -174,7 +174,7 @@ audioop-lts==0.2.2 ; python_version == "3.13" \
     --hash=sha256:f9ee9b52f5f857fbaf9d605a360884f034c92c1c23021fb90b2e39b8e64bede6 \
     --hash=sha256:fbdd522624141e40948ab3e8cdae6e04c748d78710e9f0f8d4dae2750831de19 \
     --hash=sha256:fd3d4602dc64914d462924a08c1a9816435a2155d74f325853c1f1ac3b2d9800
-azure-core==1.35.0 ; python_version >= "3.10" and python_version < "3.14" \
+azure-core==1.38.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:8db78c72868a58f3de8991eb4d22c4d368fae226dac1002998d6c50437e7dad1 \
     --hash=sha256:c0be528489485e9ede59b6971eb63c1eaacf83ef53001bfe3904e475e972be5c
 azure-identity==1.24.0 ; python_version >= "3.10" and python_version < "3.14" \
@@ -585,7 +585,7 @@ feedfinder2==0.0.4 ; python_version >= "3.10" and python_version < "3.14" \
 feedparser==6.0.11 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:0be7ee7b395572b19ebeb1d6aafb0028dee11169f1c934e0ed67d54992f4ad45 \
     --hash=sha256:c9d0407b64c6f2a065d0ebb292c2b35c01050cc0dc33757461aaabdc4c4184d5
-filelock==3.19.1 ; python_version >= "3.10" and python_version < "3.14" \
+filelock==3.20.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:66eda1888b0171c998b35be2bcc0f6d75c388a7ce20c3f3f37aa8e96c2dddf58 \
     --hash=sha256:d38e30481def20772f5baf097c122c3babc4fcdb7e14e57049eb9d88c6dc017d
 filetype==1.2.0 ; python_version >= "3.10" and python_version < "3.14" \
@@ -2551,7 +2551,7 @@ pyobjc-framework-quartz==11.1 ; python_version >= "3.10" and python_version < "3
 pyparsing==3.2.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:a749938e02d6fd0b59b356ca504a24982314bb090c383e3cf201c95ef7e2bfcf \
     --hash=sha256:b9c13f1ab8b3b542f72e28f634bad4de758ab3ce4546e4301970ad6fa77c38be
-pypdf==5.9.0 ; python_version >= "3.10" and python_version < "3.14" \
+pypdf==6.6.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:30f67a614d558e495e1fbb157ba58c1de91ffc1718f5e0dfeb82a029233890a1 \
     --hash=sha256:be10a4c54202f46d9daceaa8788be07aa8cd5ea8c25c529c50dd509206382c35
 pyperclip==1.9.0 ; python_version >= "3.10" and python_version < "3.14" \
