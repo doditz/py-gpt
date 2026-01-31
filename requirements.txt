@@ -1701,7 +1701,7 @@ mypy-extensions==1.1.0 ; python_version >= "3.10" and python_version < "3.14" \
 nbclient==0.10.2 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:4ffee11e788b4a27fabeb7955547e4318a5298f34342a4bfd01f2e1faaeadc3d \
     --hash=sha256:90b7fc6b810630db87a6d0c2250b1f0ab4cf4d3c27a299b0cde78a4ed3fd9193
-nbconvert==7.16.6 ; python_version >= "3.10" and python_version < "3.14" \
+nbconvert==7.17.0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:1375a7b67e0c2883678c48e506dc320febb57685e5ee67faa51b18a90f3a712b \
     --hash=sha256:576a7e37c6480da7b8465eefa66c17844243816ce1ccc372633c6b71c3c0f582
 nbformat==5.10.4 ; python_version >= "3.10" and python_version < "3.14" \
@@ -2199,7 +2199,7 @@ propcache==0.3.2 ; python_version >= "3.10" and python_version < "3.14" \
 proto-plus==1.26.1 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:13285478c2dcf2abb829db158e1047e2f1e8d63a077d94263c2b88b043c75a66 \
     --hash=sha256:21a515a4c4c0088a773899e23c7bbade3d18f9c66c73edd4c7ee3816bc96a012
-protobuf==5.29.5 ; python_version >= "3.10" and python_version < "3.14" \
+protobuf==6.33.5 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:3f1c6468a2cfd102ff4703976138844f78ebd1fb45f49011afc5139e9e283079 \
     --hash=sha256:3f76e3a3675b4a4d867b52e4a5f5b78a2ef9565549d4037e06cf7b0942b1d3fc \
     --hash=sha256:470f3af547ef17847a28e1f47200a1cbf0ba3ff57b7de50d22776607cd2ea353 \
@@ -2551,7 +2551,7 @@ pyobjc-framework-quartz==11.1 ; python_version >= "3.10" and python_version < "3
 pyparsing==3.2.3 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:a749938e02d6fd0b59b356ca504a24982314bb090c383e3cf201c95ef7e2bfcf \
     --hash=sha256:b9c13f1ab8b3b542f72e28f634bad4de758ab3ce4546e4301970ad6fa77c38be
-pypdf==5.9.0 ; python_version >= "3.10" and python_version < "3.14" \
+pypdf==6.6.2 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:30f67a614d558e495e1fbb157ba58c1de91ffc1718f5e0dfeb82a029233890a1 \
     --hash=sha256:be10a4c54202f46d9daceaa8788be07aa8cd5ea8c25c529c50dd509206382c35
 pyperclip==1.9.0 ; python_version >= "3.10" and python_version < "3.14" \
@@ -2602,7 +2602,7 @@ python-dotenv==1.1.1 ; python_version >= "3.10" and python_version < "3.14" \
 python-markdown-math==0.8 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:8564212af679fc18d53f38681f16080fcd3d186073f23825c7ce86fadd3e3635 \
     --hash=sha256:c685249d84b5b697e9114d7beb352bd8ca2e07fd268fd4057ffca888c14641e5
-python-multipart==0.0.20 ; python_version >= "3.10" and python_version < "3.14" \
+python-multipart==0.0.22 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:8a62d3a8335e06589fe01f2a3e178cdcc632f3fbe0d492ad9ee0ec35aab1f104 \
     --hash=sha256:8dd0cab45b8e23064ae09147625994d090fa46f5b0d1e13af944c331a7fa9d13
 python-socks==2.7.2 ; python_version >= "3.10" and python_version < "3.14" \
