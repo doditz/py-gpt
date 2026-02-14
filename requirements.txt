@@ -458,7 +458,7 @@ comm==0.2.3 ; python_version >= "3.10" and python_version < "3.14" \
 croniter==2.0.7 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:1041b912b4b1e03751a0993531becf77851ae6e8b334c9c76ffeffb8f055f53f \
     --hash=sha256:f15e80828d23920c4bb7f4d9340b932c9dcabecafc7775703c8b36d1253ed526
-cryptography==45.0.6 ; python_version >= "3.10" and python_version < "3.14" \
+cryptography==46.0.5 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:00e8724bdad672d75e6f069b27970883179bd472cd24a63f6e620ca7e41cc0c5 \
     --hash=sha256:048e7ad9e08cf4c0ab07ff7f36cc3115924e22e2266e034450a890d9e312dd74 \
     --hash=sha256:0d9ef57b6768d9fa58e92f4947cea96ade1233c0e236db22ba44748ffedca394 \
@@ -1083,7 +1083,7 @@ langchain-core==0.3.75 ; python_version >= "3.10" and python_version < "3.13" \
 langchain-text-splitters==0.3.9 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:7cd1e5a3aaf609979583eeca2eb34177622570b8fa8f586a605c6b1c34e7ebdb \
     --hash=sha256:cee0bb816211584ea79cc79927317c358543f40404bcfdd69e69ba3ccde54401
-langsmith==0.4.17 ; python_version >= "3.10" and python_version < "3.13" \
+langsmith==0.6.3 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:b824ef6a3a0669faf2bc61799e22af0b05a3a53d12cb9a448f611f861a69e991 \
     --hash=sha256:c91e218cd96ee9a310f4685ea7f2b958a54aec919f0f368e694f42431e32c422
 llama-cloud-services==0.6.54 ; python_version >= "3.10" and python_version < "3.14" \
@@ -1834,7 +1834,7 @@ opentelemetry-semantic-conventions==0.57b0 ; python_version >= "3.10" and python
 opentelemetry-util-http==0.57b0 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:e54c0df5543951e471c3d694f85474977cd5765a3b7654398c83bab3d2ffb8e9 \
     --hash=sha256:f7417595ead0eb42ed1863ec9b2f839fc740368cd7bbbfc1d0a47bc1ab0aba11
-orjson==3.11.2 ; python_version >= "3.10" and python_version < "3.14" \
+orjson==3.11.6 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:07349e88025b9b5c783077bf7a9f401ffbfb07fd20e86ec6fc5b7432c28c2c5e \
     --hash=sha256:0afb89f16f07220183fd00f5f297328ed0a68d8722ad1b0c8dcd95b12bc82804 \
     --hash=sha256:0b84455e60c4bc12c1e4cbaa5cfc1acdc7775a9da9cec040e17232f4b05458bd \
@@ -1982,7 +1982,7 @@ parso==0.8.5 ; python_version >= "3.10" and python_version < "3.14" \
 pexpect==4.9.0 ; sys_platform != "win32" and sys_platform != "emscripten" and python_version < "3.14" and python_version >= "3.10" \
     --hash=sha256:7236d1e080e4936be2dc3e326cec0af72acf9212a7e1d060210e70a47e253523 \
     --hash=sha256:ee7d41123f3c9911050ea2c2dac107568dc43b2d3b0c7557a33212c398ead30f
-pillow==10.4.0 ; python_version >= "3.10" and python_version < "3.14" \
+pillow==12.1.1 ; python_version >= "3.10" and python_version < "3.14" \
     --hash=sha256:02a2be69f9c9b8c1e97cf2713e789d4e398c751ecfd9967c18d0ce304efbf885 \
     --hash=sha256:030abdbe43ee02e0de642aee345efa443740aa4d828bfe8e2eb11922ea6a21ea \
     --hash=sha256:06b2f7898047ae93fad74467ec3d28fe84f7831370e3c258afa533f81ef7f3df \
